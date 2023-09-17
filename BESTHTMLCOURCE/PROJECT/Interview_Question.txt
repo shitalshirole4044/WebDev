@@ -1,0 +1,10 @@
+1.what is difference between relative and absolute 
+2.How to make an image clickable--(image.html)
+3.what is the use of span tag(span tag is called as inline element)
+ans:=
+    1.for adding color on particular text
+    2.for adding background color on particular text
+
+4.div tag
+ans:div is block element
+    which targets a block
